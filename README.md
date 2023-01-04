@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shafie</h1>
 <h3 align="center">A self-learner that passionate in frontend development from Malaysia</h3>
 
-- 🔭 I’m currently working on [Web App Development - CRUD](https://github.com/muhammadshafie/Mini-Project-Web-App)
+- 🔭 I’m currently working on [Build Microsite using Quasar Framework](https://github.com/muhammadshafie/quasar-app.git)
 
 - 👀 I’m interested in web development
 
-- 🌱 I’m currently self-learning in **various programming language, Laravel, and dotNet Framework**
+- 🌱 I’m currently self-learning in **React, Vue, and Quasar Framework**
 
-- 👯 I’m looking to collaborate on **Inventory System or Helpdesk Ticketing System**
+- 👯 I’m looking forward to collaborate on **Inventory System or Helpdesk Ticketing System**
 
 - 📫 How to reach me **shafiehb@gmail.com**
 
